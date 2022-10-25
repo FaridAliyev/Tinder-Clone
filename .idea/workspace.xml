@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="tinder_app:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c17968d-ac5a-4048-b64e-19397bcced0d" name="Changes" comment="Fixed ReadMe">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5fc9202a-2926-4449-aa08-7ed373d99133.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5fc9202a-2926-4449-aa08-7ed373d99133.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fu3w5CrHWNLdkfHZ4B4uYqPRqt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Perviz Veliyev/Desktop&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15332031&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.47816092&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\tinder_app\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Perviz Veliyev\IdeaProjects\tinder_app\src\main\resources\templates" />
+      <recent name="C:\Users\Perviz Veliyev\IdeaProjects\tinder_app\src\main\java\servlet" />
+      <recent name="C:\Users\Perviz Veliyev\IdeaProjects\tinder_app\src\main\resources" />
+      <recent name="C:\Users\Perviz Veliyev\IdeaProjects\tinder_app\src\main\resources\templates\css\css" />
+      <recent name="C:\Users\Perviz Veliyev\IdeaProjects\tinder_app\src\main\resources\templates\css" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dao" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install &amp;&amp; heroku local web" />
+      <command value="mvn heroku local web" />
+      <command value="mvn heroku login" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ServerApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerApp" />
+      <module name="tinder_app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c17968d-ac5a-4048-b64e-19397bcced0d" name="Changes" comment="" />
+      <created>1665328378488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665328378488</updated>
+      <workItem from="1665328380937" duration="12618000" />
+      <workItem from="1665380908426" duration="17677000" />
+      <workItem from="1665407512259" duration="1281000" />
+      <workItem from="1665408903938" duration="3819000" />
+      <workItem from="1665425576700" duration="3137000" />
+      <workItem from="1665466199631" duration="15348000" />
+      <workItem from="1665489871655" duration="5845000" />
+      <workItem from="1665503922261" duration="2173000" />
+      <workItem from="1665512025346" duration="4090000" />
+      <workItem from="1665556338715" duration="1982000" />
+      <workItem from="1665572254523" duration="1792000" />
+      <workItem from="1665576192018" duration="1924000" />
+      <workItem from="1665583011102" duration="1430000" />
+      <workItem from="1665596241319" duration="6518000" />
+      <workItem from="1665647097445" duration="591000" />
+      <workItem from="1665690701344" duration="925000" />
+      <workItem from="1665918096227" duration="18239000" />
+      <workItem from="1666281965410" duration="11900000" />
+      <workItem from="1666333000109" duration="1430000" />
+      <workItem from="1666382464699" duration="2954000" />
+      <workItem from="1666476646339" duration="3564000" />
+      <workItem from="1666532475230" duration="618000" />
+      <workItem from="1666547592844" duration="3043000" />
+      <workItem from="1666553950334" duration="2465000" />
+      <workItem from="1666556635006" duration="1605000" />
+      <workItem from="1666589713201" duration="3607000" />
+      <workItem from="1666593615083" duration="4518000" />
+      <workItem from="1666603517888" duration="287000" />
+      <workItem from="1666603842599" duration="6051000" />
+      <workItem from="1666633402134" duration="12813000" />
+      <workItem from="1666724309263" duration="209000" />
+    </task>
+    <task id="LOCAL-00001" summary="seventh commit">
+      <created>1665941658360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665941658360</updated>
+    </task>
+    <task id="LOCAL-00002" summary="eighth commit">
+      <created>1665947480788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665947480788</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ninth commit">
+      <created>1666289464833</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666289464833</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tenth commit">
+      <created>1666292883583</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666292883583</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sixteenth commit">
+      <created>1666637709536</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666637709536</updated>
+    </task>
+    <task id="LOCAL-00006" summary="seventeenth commit">
+      <created>1666639838876</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666639838876</updated>
+    </task>
+    <task id="LOCAL-00007" summary="eighteenth commit">
+      <created>1666641686924</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666641686924</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added ReadMe">
+      <created>1666645885726</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666645885726</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed ReadMe">
+      <created>1666645943097</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666645943097</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed ReadMe">
+      <created>1666646499412</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666646499412</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added remote database" />
+    <MESSAGE value="seventh commit" />
+    <MESSAGE value="eighth commit" />
+    <MESSAGE value="ninth commit" />
+    <MESSAGE value="tenth commit" />
+    <MESSAGE value="sixteenth commit" />
+    <MESSAGE value="seventeenth commit" />
+    <MESSAGE value="eighteenth commit" />
+    <MESSAGE value="Added ReadMe" />
+    <MESSAGE value="Fixed ReadMe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed ReadMe" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.IOException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
